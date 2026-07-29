@@ -1,12 +1,12 @@
 # Files die KEINE Fachmodule sind - diese ignorieren
 
 # Original-Moodle-Extraktions-Materialien
-extract_cps_iot.ps1
-README.md
-SCRAPING_PLAN.md
-sublinks_inventory.md
-task.md
-course-overview.png
+/extract_cps_iot.ps1
+/README.md
+/SCRAPING_PLAN.md
+/sublinks_inventory.md
+/task.md
+/course-overview.png
 
 # Scratch / temporaer
 *.tmp
